@@ -1,7 +1,5 @@
 # Contributors
-- [Saketh1929] (https://github.com/Saketh1929)
 - [U Shivakumar](https://github.com/Shivakumarsullagaddi)
-- [Vishnu Priya K] (https://github.com/vishnu-2805)
 - [Praveesh Billava](https://github.com/praveeshb)
 - [Sanjay](https://github.com/sanjay-n-01)
 - [Abirami Vijayan] (https://github.com/vabirami07102004)
@@ -27,7 +25,7 @@
 - [Trishna](https://github.com/trishna2105)
 - [Debasish](https://github.com/DevDebas)
 - [Jake Medeiros] (https://github.com/jakemedeiros)
--[Amit Jadhav](https://github.com/A-aj007 )
+-[Amit Jadhav](https://github.com/A-aj007)
 - [Mushara] (https://github.com/mushra31)
 - [Moulidhar](https://github.com/MoulidharC)
 - [Hemendar](https://github.com/hemendar1)
@@ -2246,4 +2244,3 @@ contribution by arshi
 - [Faustine Frederick]
 - [Mohamed Abdelwahab](https://github.com/MohamedAbdElwahabOka)
 - [Fatima Bayat](https://github.com/FatimaBayat)
-- [Chethan harivansh]( https://github.com/chethuhari)
